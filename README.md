@@ -20,4 +20,4 @@ https://hackdigitapp3.herokuapp.com/users/statMairies
 Example of request birth act
 https://hackdigitapp3.herokuapp.com/users/userReg
 
-The directory is functional and the readme is being written.
+The directory is functional in the app3 branch and the readme is being written.
